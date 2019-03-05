@@ -1,0 +1,13 @@
+{
+   "spec": {
+      "template": {
+         "spec": {
+            "containers": [
+               {
+                  "image": "gcr.io/gkeconnect/gkeconnect-gce:gkeconnect_20190115_00_00"
+               }
+            ]
+         }
+      }
+   }
+}
